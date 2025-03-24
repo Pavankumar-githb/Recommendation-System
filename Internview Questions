@@ -1,0 +1,10 @@
+1. User-Based vs. Item-Based Collaborative Filtering:
+User-Based Collaborative Filtering: Recommends items based on similar users. 
+If two users liked similar items, it suggests items liked by one user to the other.
+Item-Based Collaborative Filtering: Recommends items based on similar items. 
+If a user liked a particular item, it suggests other items similar to it based on other users' ratings.
+
+2. Collaborative Filtering:
+Collaborative Filtering (CF) is a recommendation technique that makes predictions based on past interactions (ratings, purchases, etc.) between users and items. 
+It identifies similar users or items and recommends items based on those similarities.
+It can be user-based or item-based, and it doesn’t need detailed item information—just user behavior
